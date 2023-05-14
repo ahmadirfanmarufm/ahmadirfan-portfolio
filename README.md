@@ -54,4 +54,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ahmadirfanma
 
 * [Ahmad Irfan Ma'ruf Maulana](https://www.instagram.com/ahmadirfan.dev/)
 * [Cryptical Coder](https://www.instagram.com/crypticalcoder/)
-* []()
