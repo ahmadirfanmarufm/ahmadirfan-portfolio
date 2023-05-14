@@ -1,0 +1,81 @@
+footer {
+    background-color: var(--background-color-dark);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.footer__container {
+    padding: 2rem 0 6rem;
+}
+
+.footer__title,
+.footer__link {
+    color: #9c9c9c;
+}
+
+.footer__title {
+    color: var(--container-color);
+    text-align: center;
+    margin-bottom: var(--mb-2);
+}
+
+.footer__link:hover {
+    color: var(--header-text-color);
+}
+
+.footer__list {
+    display: flex;
+    justify-content: center;
+    column-gap: 1.5rem;
+    margin-bottom: var(--mb-2);
+}
+
+.footer__social {
+    display: flex;
+    justify-content: center;
+    column-gap: 1.25rem;
+}
+
+.footer__social-link {
+    background-color: var(--container-color);
+    color: #000;
+    font-size: 1.125rem;
+    padding: 0.4rem;
+    border-radius: 0.5rem;
+    display: inline-flex;
+}
+
+.footer__social-link:hover {
+    background-color: var(--header-text-color);
+}
+
+.footer__copy {
+    display: block;
+    margin-top: 3.5rem;
+    color: #9c9c9c;
+    text-align: center;
+    font-size: var(--smaller-font-size);
+}
+
+.footer__copy-line {
+    color: #333;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.footer__copy-by {
+    color: var(--header-text-color);
+}
+
+.footer__copy-help {
+    color: var(--container-color);
+}
+
+/* BREAKPOINTS */
+/* UNTUK DEVICE YANG MEMILIKI UKURAN BESAR */
+@media screen and (max-width: 992px) {
+    .footer__social-link {
+        padding: 0.25rem;
+        border-radius: 0.25rem;
+        font-size: 1rem;
+    }
+}
