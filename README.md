@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+<br/>
+<p align="center">
+  <a href="https://github.com/ahmadirfanmarufm/ahmadirfan-portfolio">
+    <img src="https://res.cloudinary.com/panda-empire/image/upload/v1684048143/ahmadirfan-logo_k84lim.png" alt="Logo" width="80" height="80">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Ahmad Irfan Portfolio</h3>
 
-## Available Scripts
+  <p align="center">
+    Situs Web Pribadi, Portofolio Online. Ruang Online Bagi Saya Untuk Berbagi Pengetahuan Dan Pengalaman.
+    <br/>
+    <br/>
+    <a href="https://ahmadirfan.site">View Demo</a>
+  </p>
+</p>
 
-In the project directory, you can run:
+![Contributors](https://img.shields.io/github/contributors/ahmadirfanmarufm/ahmadirfan-portfolio?color=dark-green) ![Issues](https://img.shields.io/github/issues/ahmadirfanmarufm/ahmadirfan-portfolio) ![License](https://img.shields.io/github/license/ahmadirfanmarufm/ahmadirfan-portfolio) 
 
-### `npm start`
+## Table Of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
 
-### `npm test`
+![Screen Shot](https://res.cloudinary.com/panda-empire/image/upload/v1684048309/screenshot-ahmadirfan-portfolio.netlify.app-2023.05.14-14_11_28_tmmxic.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Situs Web yang saya buat ini adalah portfolio yang berguna untuk mengetahui kemampuan apa saja yang bisa saya lakukan dan projek projek yang sudah saya buat dan kamu bisa menghubungi saya melalui Situs Web tersebut. 
 
-### `npm run build`
+## Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Projek ini dibuat menggunakan framework React dan style Vanilla CSS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* [React](https://react.dev/)
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+* [BoxIcons](https://boxicons.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing
 
-### `npm run eject`
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/ahmadirfanmarufm/ahmadirfan-portfolio/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/ahmadirfanmarufm/ahmadirfan-portfolio/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Creating A Pull Request
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License
 
-## Learn More
+Distributed under the MIT License. See [LICENSE](https://github.com/ahmadirfanmarufm/ahmadirfan-portfolio/blob/main/LICENSE.md) for more information.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Authors
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* **Ahmad Irfan Ma'ruf Maulana** - *Back End Developer, Web Developer* - [Ahmad Irfan Ma'ruf Maulana](https://github.com/ahmadirfanmarufm/) - *Built Ahmad Irfan Portfolio*
+* **Cryptical Coder** - *Web Designer, Web Developer* - [Cryptical Coder](https://www.instagram.com/crypticalcoder/) - *Build Style Ahmad Irfan Portfolio*
 
-### Code Splitting
+## Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* [Ahmad Irfan Ma'ruf Maulana](https://www.instagram.com/ahmadirfan.dev/)
+* [Cryptical Coder](https://www.instagram.com/crypticalcoder/)
+* []()
