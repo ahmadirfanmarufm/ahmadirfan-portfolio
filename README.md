@@ -43,7 +43,7 @@ Projek ini dibuat menggunakan framework React dan style Vanilla CSS
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/ahmadirfanmarufm/ahmadirfan-portfolio/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/ahmadirfanmarufm/ahmadirfan-portfolio/blob/main/LICENSE) for more information.
 
 ## Authors
 
